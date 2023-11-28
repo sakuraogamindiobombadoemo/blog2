@@ -1,0 +1,45 @@
+.viagem_mainDiv
+{
+    border: 1px solid lightgray;
+}
+
+.viagem_mainDiv img
+{
+    width: 70%;
+}
+
+.viagem_mainDiv h5, .viagem_mainDiv p
+{
+  margin: 20px;
+}
+
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmesHead i
+{
+    float:right
+}
+ .filmesText span
+ {
+    color:orange;
+ }
+ #jogos
+ {
+    margin-bottom: 20px;
+ }
+ #contact iframe
+ {
+    width: 100px;
+ }
+ .contato_1 {
+    display: inline;
+ }
+ .jogos img
+ {
+    width: 1000px;
+ }
